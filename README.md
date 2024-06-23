@@ -1,2 +1,2 @@
 # projects
-Solo and Team projects
+Solo projects
